@@ -1,19 +1,20 @@
-- Hello 👋, Welcome to SetupWeb
-- At SetupWeb, we specialize in crafting innovative web and mobile applications tailored to meet your business needs. Our team of experienced developers, designers, and strategists work collaboratively to bring your vision to life.
+                                                                              Hello 👋, Welcome to SetupWeb
+At SetupWeb, we specialize in crafting innovative web and mobile applications tailored to meet your business needs. Our team of experienced developers, designers, and strategists work collaboratively to bring your vision to life.
   
 Our Services
-    Web Development: Custom websites built with the latest technologies to ensure they are fast, secure, and scalable.
-    Mobile App Development: Native and cross-platform mobile applications designed to provide seamless user experiences.
-    UI/UX Design: Intuitive and engaging designs that enhance user satisfaction and drive conversions.
-    E-commerce Solutions: Comprehensive e-commerce platforms that help you sell online effectively.
-    API Integration: Robust APIs that allow seamless integration of your applications with third-party services.
-    Maintenance & Support: Ongoing maintenance and support to ensure your applications run smoothly and stay updated.
+
+  - Web Development: Custom websites built with the latest technologies to ensure they are fast, secure, and scalable.
+  - Mobile App Development: Native and cross-platform mobile applications designed to provide seamless user experiences.
+  - UI/UX Design: Intuitive and engaging designs that enhance user satisfaction and drive conversions.
+  - E-commerce Solutions: Comprehensive e-commerce platforms that help you sell online effectively.
+  - API Integration: Robust APIs that allow seamless integration of your applications with third-party services.
+  -  Maintenance & Support: Ongoing maintenance and support to ensure your applications run smoothly and stay updated.
 - Our Process
-    Discovery & Strategy: Understanding your business objectives and defining the project scope.
-    Design & Prototyping: Creating wireframes and prototypes to visualize the user journey and interface.
-    Development: Writing clean, efficient code to build robust applications.
-    Testing & QA: Conducting thorough testing to ensure functionality, security, and performance.
-    Launch & Deployment: Deploying your application and ensuring a smooth launch.
+   - Discovery & Strategy: Understanding your business objectives and defining the project scope.
+   - Design & Prototyping: Creating wireframes and prototypes to visualize the user journey and interface.
+   - Development: Writing clean, efficient code to build robust applications.
+   - Testing & QA: Conducting thorough testing to ensure functionality, security, and performance.
+   - Launch & Deployment: Deploying your application and ensuring a smooth launch.
     Maintenance & Updates: Providing continuous support and updates to keep your application running optimally.
 - Why Choose Us?
     Expert Team: Our team comprises skilled professionals with years of experience in the industry.
